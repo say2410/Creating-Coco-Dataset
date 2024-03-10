@@ -1,0 +1,39 @@
+{
+  "masks": {
+    "images/000001.png": {
+      "mask": "masks/000001.png",
+      "color_categories": {
+        "(0, 255, 0)": { "category": "knife", "super_category": "utensil" }
+      }
+    },
+    "images/000002.png": {
+      "mask": "masks/000002.png",
+      "color_categories": {
+        "(0, 255, 0)": { "category": "knife", "super_category": "utensil" }
+      }
+    },
+    "images/000003.png": {
+      "mask": "masks/000003.png",
+      "color_categories": {
+        "(0, 255, 0)": { "category": "knife", "super_category": "utensil" }
+      }
+    },
+    "images/000004.png": {
+      "mask": "masks/000004.png",
+      "color_categories": {
+        "(0, 255, 0)": { "category": "knife", "super_category": "utensil" },
+        "(0, 0, 255)": { "category": "knife", "super_category": "utensil" },
+        "(255, 0, 0)": { "category": "knife", "super_category": "utensil" }
+      }
+    },
+    "images/000005.png": {
+      "mask": "masks/000005.png",
+      "color_categories": {
+        "(0, 255, 0)": { "category": "knife", "super_category": "utensil" }
+      }
+    }
+  },
+  "super_categories": {
+    "utensil": ["knife"]
+  }
+}

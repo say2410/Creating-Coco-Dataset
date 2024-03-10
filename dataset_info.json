@@ -1,0 +1,15 @@
+{
+  "info": {
+    "description": "Test dataset",
+    "version": "1",
+    "url": "no-url/datasets.com",
+    "year": 2024,
+    "contributor": "Sayali",
+    "date_created": "10/03/2024"
+  },
+  "license": {
+    "url": "no-url/licenses.com",
+    "id": 0,
+    "name": "testing"
+  }
+}
